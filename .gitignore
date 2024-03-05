@@ -1,0 +1,16 @@
+﻿# Global gitignore
+
+/.vs/
+
+# .net
+/StageDive/.vs/
+/StageDive/bin/
+/StageDive/obj/
+
+# Local Netlify folder
+.netlify
+
+# .js files
+node_modules/
+/StageDive/package-lock.json
+/StageDive/wwwroot/js/dexie.min.js
